@@ -9,3 +9,6 @@ sdkconfig
 dependencies.lock
 .env
 releases/
+main/assets/lang_config.h
+.DS_Store
+.cache
